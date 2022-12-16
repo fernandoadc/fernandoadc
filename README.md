@@ -30,10 +30,3 @@ I'm currently Computer Science student at UFOPA (Universidade Federal do Oeste d
 </div>
   
   ##
- 
-  
-
-  
-![Snake animation](https://github.com/nantesgi/nantesgi/blob/output/github-contribution-grid-snake.svg)
- 
-![](https://komarev.com/ghpvc/?username=fernandoadc&label=📈+You+are+visitor+number&color=green)
