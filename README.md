@@ -4,9 +4,7 @@
   <a href="https://www.linkedin.com/in/fernando-almeida-9bb675173" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>-->
 
-Passionate about technology and AI, always looking for solutions to problems through programming!
-
-I'm currently Computer Science student at UFOPA (Universidade Federal do Oeste do Pará). 
+I'm passionate about technology, and I'm always looking for ways to use it to solve real-world problems!
      
   ##
 
@@ -24,8 +22,8 @@ I'm currently Computer Science student at UFOPA (Universidade Federal do Oeste d
  
   <!--<img align="center" alt="Gi-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">-->
   <img align="center" alt="Gi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Gi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gi-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Gi-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg">
   <img align="center" alt="Gi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   
 </div>
