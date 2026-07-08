@@ -1,4 +1,4 @@
-## Hello world, I'm Fernando!
+## Hello, I'm Fernando!
  <!--<div> 
   <a href="https://instagram.com/frndocrm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernando-almeida-9bb675173" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -8,22 +8,23 @@ I'm passionate about technology, and I'm always looking for ways to use it to so
      
   ##
 
-<!--<div align="center">
-  <a href="https://github.com/fernandoadc">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandoadc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoadc&layout=compact&langs_count=7&theme=dark"/>
-</div>-->
 
-<div style="display: inline_block"><br>
-  <!--<img align="center" alt="Gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
-  <img align="center" alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-->
- 
-  <!--<img align="center" alt="Gi-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">-->
-  <img align="center" alt="Gi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Gi-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Gi-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg">
-  <img align="center" alt="Gi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  
-</div>
+<h3 align="center">
+  ⌨️ Programming Language, Technologies and Libraries
+</h3>
+<br/>
+<p align="center">
+  <img style="width: auto;" src="https://img.shields.io/badge/Python-292e33?style=flat-square&logo=Python&logoColor=fff"> 
+  <img style="width: auto;" src="https://img.shields.io/badge/Git-292e33?style=flat-square&logo=Git&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Selenium WebDriver-292e33?style=flat-square&logo=Selenium&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/PostgreSQL-292e33?style=flat-square&logo=PostgreSQL&logoColor=fff">
+  <br>
+  <img style="width: auto;" src="https://img.shields.io/badge/Docker-292e33?style=flat-square&logo=Docker&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/PHP-292e33?style=flat-square&logo=Php&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Regular Expressions-292e33?style=flat-square">
+  <img style="width: auto;" src="https://img.shields.io/badge/BeautifulSoup4-292e33?style=flat-square">
+  <img style="width: auto;" src="https://img.shields.io/badge/Seaborn-292e33?style=flat-square&logo=Seaborn&logoColor=fff"">
+ <img style="width: auto;" src="https://img.shields.io/badge/NLTK-292e33?style=flat-square&logo=Nltk&logoColor=fff"">
+</p>
+
+---
