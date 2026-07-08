@@ -10,7 +10,7 @@ I'm passionate about technology, and I'm always looking for ways to use it to so
 
 
 <h3 align="center">
-  ⌨️ Programming Language, Technologies and Libraries
+  Programming Language, Technologies and Libraries
 </h3>
 <br/>
 <p align="center">
